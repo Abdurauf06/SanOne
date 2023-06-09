@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1920px;
+    height: 3566px;
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 227px;
+    background-color: #fff;
+    flex-wrap: wrap;
+    gap: 242px;
+}
+
+.akbar2 {
+    width: 568px;
+    height: 559px;
+    flex-direction: column;
+}
+
+.akbar1 {
+    position: absolute;
+    top: 3%;
+}
+
+.akbar1>h4 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #9F6233;
+
+}
+
+.akbar1>span {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* 04 */
+
+    color: #7C7C7C;
+
+}
+
+p{
+    font-style: normal;
+font-weight: 400;
+font-size: 31px;
+line-height: 38px;
+/* identical to box height */
+
+
+/* 04 */
+
+color: #7C7C7C;
+text-align: center;
+padding-top: 46px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
