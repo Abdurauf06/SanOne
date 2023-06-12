@@ -4,6 +4,9 @@
   ],
   "hints": {
     "compat-api/html": "off",
-    "manifest-file-extension": "off"
+    "manifest-file-extension": "off",
+    "detect-css-reflows/paint": "off",
+    "detect-css-reflows/layout": "off",
+    "detect-css-reflows/composite": "off"
   }
 }

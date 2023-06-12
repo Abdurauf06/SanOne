@@ -1,0 +1,243 @@
+.rauf_son{
+    max-width: 1607px;
+}
+.rauf_top{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+.rauf_left{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 28px;
+    padding-left: 260px;
+}
+.rauf_left img{
+    border-radius: 10px;
+}
+.rauf_center img{
+    border-radius: 10px;
+}
+.rauf_center{
+    width: 100%;
+    height: auto;
+    padding-right: 60px;
+}
+.rauf_right{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.rauf_b1{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.ff>b{
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 40px;
+    color: #000000;
+}
+.ff>del{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: line-through;
+    color: #FF3F3F;
+}
+.f{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 26.67px;
+}
+.f .rauf_c1{
+    width: 20px;
+    height: 20px;
+    background-color: #A18B7F;
+    border-radius: 50%;
+}
+.f .rauf_c2{
+    width: 20px;
+    height: 20px;
+    background-color: #171717;
+    border-radius: 50%;
+}
+.f .rauf_c3{
+    width: 20px;
+    height: 20px;
+    background-color: #9F6233;
+    border-radius: 50%;
+}
+.f .rauf_c4{
+    width: 20px;
+    height: 20px;
+    background-color: #D2D2D2;
+    border-radius: 50%;
+}
+.rauf_a3{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    padding: 75px 0 0 0;
+    gap: 5px;
+}
+.rauf_a3 p{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    color: #D2D2D2;
+}
+.h1{
+    width: 40px;
+    height: 40px;
+    background-color: #D3D3D3;
+    color: #D3D3D3;
+    background: none;
+    border: 1px solid #D3D3D3;
+    gap: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 14px;
+}
+.h2{
+    width: 40px;
+    height: 40px;
+    background-color: #DCBB45;
+    color: #DCBB45;
+    background: none;
+    border: 1px solid #DCBB45;
+    gap: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 14px;
+}
+.abdu_p{
+    position: absolute;
+    top: 44%;
+}
+.rauf_a1 p{
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    color: #A18B7F;
+}
+.rauf_b1 p{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    color: #D2D2D2;
+}
+.rauf_b1{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    color: #D2D2D2;
+}
+.rauf_a4{
+    position: relative;
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: flex-start;
+    padding-top: 68px;
+    gap: 25px;
+}
+.rauf_a4 button{
+    width: 190px;
+    height: 46px;
+    background: #DCBB45;
+    border-radius: 8px;
+    border: none;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 26px;
+    color: #000000;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.has button{
+    background: none;
+    border: 1px solid #DCBB45;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 26px;
+    color: #000000;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+
+/* ***************************************       Rauf_bottom       ********************************************** */
+
+
+
+.rauf_bottom{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.rauf_button{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rauf_button button{
+    width: 209px;
+    height: 50px;
+    background: #DCBB45;
+    border: 2px solid #DCBB45;
+    border-radius: 16px;
+}
+.gaz{
+    padding-left: 25px;
+}
+.gaz button{
+    width: 209px;
+    height: 50px;
+    background: none;
+    border: 2px solid #DCBB45;
+    border-radius: 16px;
+}
+.rauf_cart{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+}
+.rauf_cart p{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    color: #7C7C7C;
+    align-items: flex-start;
+}
+.rauf_cart span{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    text-align: right;
+    color: #DE821D;
+    align-items: flex-end;
+}
